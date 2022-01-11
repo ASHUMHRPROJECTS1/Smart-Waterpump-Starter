@@ -2,7 +2,7 @@
 
 > **Story**
 >
-> by
+>
 >
 > This is a very interesting yet simple project for making Waterpump
 > control the water level smartly. We called this project a **\"Smart
